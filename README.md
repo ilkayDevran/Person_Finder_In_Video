@@ -1,1 +1,1 @@
-personFiinder
+person_finder_in_video
